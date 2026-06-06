@@ -1,0 +1,11 @@
+station_id,station_name,latitude,longitude,elevation_m,country,region,record_start,record_end
+USW00094728,New York Central Park,40.7789,-73.9692,42.7,USA,Northeast,1869,2024
+USW00023174,Los Angeles Intl Airport,33.9381,-118.3889,29.6,USA,West,1944,2024
+USW00014733,Chicago O'Hare Intl Airport,41.9950,-87.9336,201.8,USA,Midwest,1958,2024
+USW00012918,Miami Intl Airport,25.8153,-80.2817,2.7,USA,Southeast,1948,2024
+USW00024229,Seattle-Tacoma Intl Airport,47.4444,-122.3139,137.2,USA,Northwest,1948,2024
+CA001108380,Toronto Pearson Intl Airport,43.6767,-79.6306,173.4,Canada,Ontario,1953,2024
+UK000003772,London Heathrow,51.4791,-0.4492,25.3,UK,England,1949,2024
+GM000010384,Berlin Tempelhof,52.4667,13.4000,48.7,Germany,Berlin,1876,2024
+JN000047662,Tokyo,35.6833,139.7500,6.0,Japan,Kanto,1875,2024
+AS000094767,Sydney Airport,-33.8667,151.2000,6.4,Australia,New South Wales,1859,2024
